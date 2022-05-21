@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tempat Wisata Popular</string>
+    <string name="h1">Lorem Ipsum is simply</string>
+    <string name="h2">Wisata di Indonesia yang Popular</string>
+    <string name="h3">Lorem Ipsum is simply</string>
+    <string name="name_owner">Rizky Faisal Rafi</string>
+    <string name="email">rizkyfaisalrafi123@gmail.com</string>
+    <string name="activity_about_title">About Me</string>
+    <string name="about_me">\t\t\tSaya seorang mahasiswa Teknik Informatika semester 4 di Universitas
+        Raharja, saya menyukai pemrograman sejak saya menulis program pertama saya ketika saya
+        masih semester 1 pada bahasa HTML dan CSS, saya ingat pada saat itu saya belajar melalui
+        platform Youtube Channel Web Programming UNPAS. Sejak saat itu saya tahu pemrograman
+        itu sesuatu yang saya suka.
+        \n\n\t\t
+        kemudian di semester 3 saya beralih ke bahasa pemrograman mobile yaitu Kotlin,
+        saya mulai mempelajari struktur android studio kemudian bahasa pemrograman kotlin.
+        Setelah itu saya belajar bahasa pemrograman dart untuk mengenal multi-platform dan
+        alhamdulilah setelah itu saya mendapatkan kesempatan beasiswa di platform Dicoding
+        Indonesia pada kelas Belajar Membuat Aplikasi Flutter Untuk Pemula, saya mengikutinya
+        dengan semangat dan sampai selesai kelas mendapatkan sertifikat.
+        \n\n\t\t
+        Saya juga mendapatkan support system yaitu teman belajar bareng, Senior Android di kampus
+        dan juga Senior Himpunan. Project terakhir yang sedang saya kembangkan yaitu aplikasi
+        E-Commerce menggunakan bahasa Dart dan Flutter.
+
+        Saya berharap suatu hari nanti saya akan bekerja sebagai Programmer Mobile,
+        tetapi tentu saja ada lebih banyak hal yang saya benar-benar ingin belajar,
+        jadi saya sangat bersemangat dengan motivasi untuk belajar bukan hanya untuk diri sendiri
+        namun untuk kemajuan teknologi di masa depan".</string>
+
+    <string name="detail_img">Detail Img</string>
+    <string name="share">Share</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="github">Github</string>
+    <string name="gmail">Gmail</string>
+    <string name="about">About</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="tempat_wisata_popular">Tempat Wisata Popular</string>
+    <string name="universitas_raharja">Universitas Raharja</string>
+</resources>
